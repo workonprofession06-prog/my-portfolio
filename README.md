@@ -13,7 +13,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - Contact section
 
 ## Live Demo
-https://faika-khan.github.io
+https://github.com/workonprofession06-prog/my-portfolio.git
 
 ## 📬 Contact
 - Email: workonprofession06@gmail.com
